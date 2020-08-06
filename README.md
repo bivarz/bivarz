@@ -1,12 +1,7 @@
-Olá! :hand:
+Hello! :v:
 
-
-Eu Sou o Bivar Filho,Desenvolvedor Full-Stack.<br/>
-Estudo as tecnologias da Stack : JavaScript - Typescript,Node,React e React Native.<br/>
-Estou Buscando colaborar com projetos em Front-end usando React.<br/>
-Sou Fissurado em tecnologia, games, filmes e uma infinidade de coisas.<br/>
-Entre em contato comigo: https://www.linkedin.com/in/paulobivarfilho/
-
-
-
-
+I am Bivar Filho, Full-Stack Developer.<br/>
+I study Stack technologies: JavaScript - Typescript, Node, React and React Native..<br/>
+I am looking to collaborate with projects in Front-end using React..<br/>
+I am enthusiastic of technology, games, movies and a multitude of things..<br/>
+Contact me: https://www.linkedin.com/in/paulobivarfilho/
