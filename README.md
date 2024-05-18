@@ -6,6 +6,9 @@ I am looking to collaborate with projects in Front-end using React<br/>
 I am enthusiastic of technology, games, movies and a multitude of things..<br/>
 Contact me: https://www.linkedin.com/in/paulobivarfilho/
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+<!---
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bivarz&show_icons=true&theme=dark"
