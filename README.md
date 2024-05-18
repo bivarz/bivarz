@@ -5,4 +5,15 @@ I'm working with JavaScript - Typescript, Node, React and React Native..<br/>
 I am looking to collaborate with projects in Front-end using React<br/>
 I am enthusiastic of technology, games, movies and a multitude of things..<br/>
 Contact me: https://www.linkedin.com/in/paulobivarfilho/
-![SoExcited~GIF](https://github.com/bivarz/bivarz/assets/53359269/8255a0ae-bd4d-4874-9ea6-ab2d22a7a732)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bivarz&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bivarz&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bivarz&show_icons=true" />
+</picture>
