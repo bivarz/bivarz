@@ -5,8 +5,6 @@ I'm working with JavaScript - Typescript, Node, React and React Native..<br/>
 I am looking to collaborate with projects in Front-end using React<br/>
 I am enthusiastic of technology, games, movies and a multitude of things..<br/>
 
-
-
 Contact me: 
 <div> 
   <a href='https://www.linkedin.com/in/paulobivarfilho/' target="_blank">
@@ -14,9 +12,6 @@ Contact me:
   </a>
 </div>
 
-
-<br>
-My Techs & Tools:
 <div style='display: inline_block'><br>
 
 ## Technologies and Tools
