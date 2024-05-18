@@ -5,7 +5,7 @@ I'm working with JavaScript - Typescript, Node, React and React Native..<br/>
 I am looking to collaborate with projects in Front-end using React<br/>
 I am enthusiastic of technology, games, movies and a multitude of things..<br/>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bivarz&theme=blue-green' />
+
 
 Contact me: 
 <div> 
@@ -54,4 +54,6 @@ My Techs & Tools:
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=bivarz&show_icons=true" />
+
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bivarz&theme=blue-green' />
 </picture>
