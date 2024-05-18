@@ -16,7 +16,7 @@ Contact me:
 
 ## Technologies and Tools
 
-### Frontend Technologies
+#### Frontend Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" width="40" />
