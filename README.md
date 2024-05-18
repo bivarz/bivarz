@@ -6,7 +6,7 @@ I am looking to collaborate with projects in Front-end using React<br/>
 I am enthusiastic of technology, games, movies and a multitude of things..<br/>
 Contact me: 
 <div> 
-  <a href='https://www.linkedin.com/in/paulobivarfilho/'>
+  <a href='https://www.linkedin.com/in/paulobivarfilho/' target='_blank'>
     <img  src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
   </a>
 
