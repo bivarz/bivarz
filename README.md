@@ -1,6 +1,6 @@
 Hey There! :v:
 
-Hi, I'm Bivar Filho, a passionate Front-End Developer with expertise in JavaScript, TypeScript, Node.js, React, and React Native. I am eager to collaborate on front-end projects, particularly those leveraging the power of React. Beyond coding, I'm an enthusiast of technology, games, movies, and a wide range of interests. My commitment to continuous learning and innovation drives me to stay updated with the latest industry trends and best practices.
+Hi, I'm Paulo Bivar, a passionate Front-End Developer with expertise in JavaScript, TypeScript, Node.js, React, and React Native. I am eager to collaborate on front-end projects, particularly those leveraging the power of React. Beyond coding, I'm an enthusiast of technology, games, movies, and a wide range of interests. My commitment to continuous learning and innovation drives me to stay updated with the latest industry trends and best practices.
 Let's create amazing web experiences together!
 Contact me: 
 <div> 
@@ -9,7 +9,7 @@ Contact me:
   </a>
 <div style='display: inline_block'>
   
-## Technologies and Tools
+## Technologies and Tools 🎯
 
 #### Frontend Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40" />
