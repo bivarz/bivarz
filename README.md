@@ -1,19 +1,14 @@
 Hey There! :v:
 
-I am Bivar Filho, Front-End Developer.<br/>
-I'm working with JavaScript - Typescript, Node, React and React Native..<br/>
-I am looking to collaborate with projects in Front-end using React<br/>
-I am enthusiastic of technology, games, movies and a multitude of things..<br/>
-
+Hi, I'm Bivar Filho, a passionate Front-End Developer with expertise in JavaScript, TypeScript, Node.js, React, and React Native. I am eager to collaborate on front-end projects, particularly those leveraging the power of React. Beyond coding, I'm an enthusiast of technology, games, movies, and a wide range of interests. My commitment to continuous learning and innovation drives me to stay updated with the latest industry trends and best practices.
+Let's create amazing web experiences together!
 Contact me: 
 <div> 
   <a href='https://www.linkedin.com/in/paulobivarfilho/' target="_blank">
     <img  src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
   </a>
-
-
-<div style='display: inline_block'><br>
-
+<div style='display: inline_block'>
+  
 ## Technologies and Tools
 
 #### Frontend Technologies
@@ -26,16 +21,16 @@ Contact me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" height="30" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="30" width="40" />
 
-#### JavaScript Frameworks and Libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" width="40" />
-
 #### Backend Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="30" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" height="30" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30" width="40" />
+
+#### JavaScript Frameworks and Libraries
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" width="40" />
 
 #### DevOps and Cloud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="40" width="50" />
