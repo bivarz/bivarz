@@ -10,7 +10,7 @@ Contact me:
   <a href='https://www.linkedin.com/in/paulobivarfilho/' target="_blank">
     <img  src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
   </a>
-</div>
+
 
 <div style='display: inline_block'><br>
 
@@ -34,15 +34,19 @@ Contact me:
 #### Backend Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" height="30" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" height="30" width="40" />
-#### Databases
+#
+### Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30" width="40" />
+
 #### DevOps and Cloud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="40" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="30" width="40" />
+
 #### Design Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" height="30" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="20" width="40" />
+</div>
 </div>
 
 <!---
