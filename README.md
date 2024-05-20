@@ -5,7 +5,7 @@ Let's create amazing web experiences together!
 Contact me: 
 <div> 
   <a href='https://www.linkedin.com/in/paulobivarfilho/' target="_blank">
-    <img  src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+    <img  src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'  width="100"  />
   </a>
 <div style='display: inline_block'>
   
